@@ -22,4 +22,5 @@ CSS – layout, styling, and responsiveness
 
 🚀How to run:
 1-Clone the repository: https://github.com/golikarami/css-page.git
+
 2-Open index.html in your browser.
