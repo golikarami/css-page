@@ -28,7 +28,6 @@ CSS – layout, styling, and responsiveness
 
 ## 🚀How to run:
 
-## 🚀 How to Run:
 
 ---
 
