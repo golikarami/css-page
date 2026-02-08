@@ -1,11 +1,9 @@
 
-a simple single-page website built with HTML and CSS, focused on clean layout, typography, and visual hierarchy.
+a simple **single-page** website built with HTML and CSS, focused on clean layout, typography, and visual hierarchy.
 
+---
 
-
-
-
-✨Features:
+## ✨Features:
 
 . Single-page layout
 
@@ -15,21 +13,34 @@ a simple single-page website built with HTML and CSS, focused on clean layout, t
 
 . Organized and readable CSS
 
+---
 
 
-
-🛠️ Built With:
+## 🛠️ Built With:
 
 HTML – semantic structure
 
 CSS – layout, styling, and responsiveness
 
 
+---
 
 
+## 🚀How to run:
 
-🚀How to run:
+## 🚀 How to Run:
 
-1-Clone the repository: https://github.com/golikarami/css-page.git
+---
 
-2-Open index.html in your browser.
+1. Clone the project:
+```bash
+git clone < https://github.com/golikarami/css-page.git>
+```
+2. Go into the project folder:
+```bash
+cd css-page
+
+```
+Open index.html in your browser (double-click or right-click → Open with → Browser).
+
+
